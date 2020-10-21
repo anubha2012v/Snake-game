@@ -1,3 +1,4 @@
+# For Creating the Snake game we are going to use turtle library of Python.
 from turtle import *
 from random import randrange
 from freegames import square, vector
