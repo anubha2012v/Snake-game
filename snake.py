@@ -38,6 +38,7 @@ def move():
 
     clear()
 
+   #for body of the snake
     for body in snake:
         square(body.x, body.y, 9, 'black')
 
