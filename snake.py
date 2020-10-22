@@ -27,6 +27,7 @@ def move():
         return
 
     snake.append(head)
+    
  # for Food   
     if head == food:
         print('Snake:', len(snake))
